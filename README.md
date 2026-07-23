@@ -87,7 +87,7 @@ Menu         Orders         Responses
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/delivery-workflow-simulator.git
+git clone https://github.com/karinfaraujo/delivery-workflow-simulator.git
 ```
 
 ### Navigate to the project folder
