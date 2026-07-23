@@ -1,4 +1,8 @@
 # 🍕 Delivery Workflow Simulator
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![AWS Inspired](https://img.shields.io/badge/AWS-Inspired-orange)
 
 A Python-based delivery assistant that simulates the workflow orchestration concepts of AWS Step Functions using a rule-based state machine. This project demonstrates how a delivery workflow can be implemented locally without relying on AWS services or external APIs.
 
